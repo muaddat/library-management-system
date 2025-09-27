@@ -32,7 +32,6 @@ A small library wants to digitize its system. They need a RESTful API where user
 - ✅ Update existing book details
 - ✅ Remove books from the library
 - ✅ ISBN uniqueness validation
-- ✅ Book availability tracking
 
 ### Book Discovery (All Users)
 - ✅ View all books in the library
